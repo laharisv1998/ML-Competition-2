@@ -169,21 +169,3 @@ submit.reset_index(inplace=True)
 print(submit.head())
 
 submit.to_csv('submission.csv', index=False)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
